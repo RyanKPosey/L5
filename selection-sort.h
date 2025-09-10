@@ -7,6 +7,8 @@
 
 #ifndef SELECTION_SORT_H
 #define SELECTION_SORT_H
+#include <iostream>
+#include <array>
 
 void selectionSort(array<int, 5>& arr);
 
