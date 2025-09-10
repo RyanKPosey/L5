@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include <array>
+#include "selection-sort.h"
 
 int main() {
     array<int, 5> numbers = {42, 7, 19, 3, 25};
