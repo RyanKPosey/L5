@@ -9,6 +9,8 @@
 #include <iostream>
 #include <array>
 
+using namespace std;
+
 void selectionSort(array<int, 5>& arr) {
     for (size_t i = 0; i < arr.size() - 1; i++) {
         size_t minIndex = i;

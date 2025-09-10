@@ -10,6 +10,8 @@
 #include <iostream>
 #include <array>
 
+using namespace std;
+
 void selectionSort(array<int, 5>& arr);
 
 #endif
